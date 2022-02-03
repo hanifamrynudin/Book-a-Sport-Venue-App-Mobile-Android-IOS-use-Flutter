@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079534217899",
+    "project_id": "playit-b46b1",
+    "storage_bucket": "playit-b46b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079534217899:android:b53626c3c1539d0205a5ee",
+        "android_client_info": {
+          "package_name": "com.playit.playit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079534217899-vs710qlt8vn9untnf6ct9irmervhvepv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playit.playit",
+            "certificate_hash": "8cf76e8c48d32ca02e676dcd6513ddb5c870dea0"
+          }
+        },
+        {
+          "client_id": "1079534217899-eoeilgm1u9nq06vitnlfdah3ls0cl1o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmN61kDXmcci80UmjlBrptjpsLAJHXXD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079534217899-eoeilgm1u9nq06vitnlfdah3ls0cl1o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
